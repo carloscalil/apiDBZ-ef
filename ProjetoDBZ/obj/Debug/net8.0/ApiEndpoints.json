@@ -1,0 +1,86 @@
+[
+  {
+    "ContainingType": "ProjetoDBZ.Controllers.PersonagensController",
+    "Method": "GetPersonagens",
+    "RelativePath": "api/Personagens",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ProjetoDBZ.Models.Personagem, ProjetoDBZ, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjetoDBZ.Controllers.PersonagensController",
+    "Method": "AddPersonagem",
+    "RelativePath": "api/Personagens",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "personagem",
+        "Type": "ProjetoDBZ.Models.Personagem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetoDBZ.Controllers.PersonagensController",
+    "Method": "UpdatePersonagem",
+    "RelativePath": "api/Personagens",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "personagem",
+        "Type": "ProjetoDBZ.Models.Personagem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetoDBZ.Controllers.PersonagensController",
+    "Method": "DeletePersonagem",
+    "RelativePath": "api/Personagens",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetoDBZ.Controllers.PersonagensController",
+    "Method": "GetPersonagemById",
+    "RelativePath": "api/Personagens/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\calil\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\ProjetoDBZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52EEEA50-87BC-4B80-84C1-1B14C6BAE76F}|ProjetoDBZ\\ProjetoDBZ.csproj|c:\\users\\calil\\onedrive\\\u00E1rea de trabalho\\projetos\\projetodbz\\projetodbz\\models\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52EEEA50-87BC-4B80-84C1-1B14C6BAE76F}|ProjetoDBZ\\ProjetoDBZ.csproj|solutionrelative:projetodbz\\models\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52EEEA50-87BC-4B80-84C1-1B14C6BAE76F}|ProjetoDBZ\\ProjetoDBZ.csproj|c:\\users\\calil\\onedrive\\\u00E1rea de trabalho\\projetos\\projetodbz\\projetodbz\\controllers\\personagenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52EEEA50-87BC-4B80-84C1-1B14C6BAE76F}|ProjetoDBZ\\ProjetoDBZ.csproj|solutionrelative:projetodbz\\controllers\\personagenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52EEEA50-87BC-4B80-84C1-1B14C6BAE76F}|ProjetoDBZ\\ProjetoDBZ.csproj|c:\\users\\calil\\onedrive\\\u00E1rea de trabalho\\projetos\\projetodbz\\projetodbz\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52EEEA50-87BC-4B80-84C1-1B14C6BAE76F}|ProjetoDBZ\\ProjetoDBZ.csproj|solutionrelative:projetodbz\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52EEEA50-87BC-4B80-84C1-1B14C6BAE76F}|ProjetoDBZ\\ProjetoDBZ.csproj|c:\\users\\calil\\onedrive\\\u00E1rea de trabalho\\projetos\\projetodbz\\projetodbz\\projetodbz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{52EEEA50-87BC-4B80-84C1-1B14C6BAE76F}|ProjetoDBZ\\ProjetoDBZ.csproj|solutionrelative:projetodbz\\projetodbz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52EEEA50-87BC-4B80-84C1-1B14C6BAE76F}|ProjetoDBZ\\ProjetoDBZ.csproj|c:\\users\\calil\\onedrive\\\u00E1rea de trabalho\\projetos\\projetodbz\\projetodbz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52EEEA50-87BC-4B80-84C1-1B14C6BAE76F}|ProjetoDBZ\\ProjetoDBZ.csproj|solutionrelative:projetodbz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\calil\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\ProjetoDBZ\\ProjetoDBZ\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoDBZ\\Program.cs",
+              "ToolTip": "C:\\Users\\calil\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\ProjetoDBZ\\ProjetoDBZ\\Program.cs",
+              "RelativeToolTip": "ProjetoDBZ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T19:52:34.02Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjetoDBZ",
+              "DocumentMoniker": "C:\\Users\\calil\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\ProjetoDBZ\\ProjetoDBZ\\ProjetoDBZ.csproj",
+              "RelativeDocumentMoniker": "ProjetoDBZ\\ProjetoDBZ.csproj",
+              "ToolTip": "C:\\Users\\calil\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\ProjetoDBZ\\ProjetoDBZ\\ProjetoDBZ.csproj",
+              "RelativeToolTip": "ProjetoDBZ\\ProjetoDBZ.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-22T21:04:51.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Personagem.cs",
+              "DocumentMoniker": "C:\\Users\\calil\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\ProjetoDBZ\\ProjetoDBZ\\Models\\Personagem.cs",
+              "RelativeDocumentMoniker": "ProjetoDBZ\\Models\\Personagem.cs",
+              "ToolTip": "C:\\Users\\calil\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\ProjetoDBZ\\ProjetoDBZ\\Models\\Personagem.cs",
+              "RelativeToolTip": "ProjetoDBZ\\Models\\Personagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T20:23:26.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonagensController.cs",
+              "DocumentMoniker": "C:\\Users\\calil\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\ProjetoDBZ\\ProjetoDBZ\\Controllers\\PersonagensController.cs",
+              "RelativeDocumentMoniker": "ProjetoDBZ\\Controllers\\PersonagensController.cs",
+              "ToolTip": "C:\\Users\\calil\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\ProjetoDBZ\\ProjetoDBZ\\Controllers\\PersonagensController.cs",
+              "RelativeToolTip": "ProjetoDBZ\\Controllers\\PersonagensController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwEQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T19:34:40.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\calil\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\ProjetoDBZ\\ProjetoDBZ\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProjetoDBZ\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\calil\\OneDrive\\\u00C1rea de Trabalho\\Projetos\\ProjetoDBZ\\ProjetoDBZ\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProjetoDBZ\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T19:30:07.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
